@@ -17,6 +17,9 @@ Responsive design with a centered canvas and frame.
 Realistic box shadows and blur effects for a layered, painted look.
 Slight rotations to create an organic, hand-painted appearance.
 ## File Structure
+graphql
+Copy
+Edit
 │── index.html      # Main HTML file for structure
 │── styles.css      # CSS file for styling
 └── README.md       # Project documentation
