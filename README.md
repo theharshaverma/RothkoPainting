@@ -23,3 +23,5 @@ Open the index.html file in any modern web browser.
 .canvas: Holds the painting, adds background color, and applies a slight blur.
 .frame: Creates the outer border that mimics a painting frame.
 .one, .two, .three: Three layers of colored boxes with different rotations, blurs, and shadows to create the abstract art.
+![Screenshot](./images/Screenshot%20(76).png)
+
